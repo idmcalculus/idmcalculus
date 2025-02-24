@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Damilola Michael Ige
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=idmcalculus&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- -  I’m currently working on ****** (soon to be revealed) -->
 - 🌱 I’m currently learning about AI/ML
 - 🔭 I’m actively searching for opportunities: remote (anywhere) or hybrid/onsite (UK)
