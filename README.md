@@ -85,3 +85,9 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idmcalculus&show_icons=true&theme=radical)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbrit&show_icons=true&locale=en&layout=compact" alt="jbrit" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbrit&show_icons=true&locale=en" alt="jbrit" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbrit&" alt="jbrit" /></p>
