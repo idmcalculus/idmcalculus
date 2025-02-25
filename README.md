@@ -2,9 +2,7 @@
 
 ### I am a seasoned software developer with more than 6 years of experience creating solutions for iOS, web and cloud platforms.
 
---
 [![trophy](https://github-profile-trophy.vercel.app/?username=idmcalculus&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <!-- -  I’m currently working on ****** (soon to be revealed) -->
 - 🌱 I’m currently learning about AI/ML
@@ -14,7 +12,6 @@
 - 📫 You can reach me here: idm.calculus@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love football (soccer)
-
 
 ### Languages and Tools:
 
@@ -82,7 +79,6 @@
 <a href="https://www.travis-ci.com" target="_blank"><img src="https://www.travis-ci.com/img/logo.svg" alt="travisci" width="40" height="40"/></a>
 </p>
 
---
 ![Damilola Michael Ige's GitHub stats](https://github-readme-stats.vercel.app/api?username=idmcalculus&show_icons=true&theme=radical)
 
 ![Idmcalculus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=idmcalculus&show_icons=true&locale=en&layout=compact)
