@@ -84,10 +84,8 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idmcalculus&show_icons=true&theme=radical)
+![Damilola Michael Ige's GitHub stats](https://github-readme-stats.vercel.app/api?username=idmcalculus&show_icons=true&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idmcalculus&show_icons=true&locale=en&layout=compact" alt="idmcalculus" /></p>
+![Idmcalculus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=idmcalculus&show_icons=true&locale=en&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idmcalculus&show_icons=true&locale=en" alt="idmcalculus" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idmcalculus&" alt="idmcalculus" /></p>
+![Idmcalculus's other stats](https://github-readme-streak-stats.herokuapp.com/?user=idmcalculus)
