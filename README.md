@@ -18,10 +18,10 @@
 <p align="left">
 <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="40" height="40"/></a>
 <a href="https://emberjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://flask.palletsprojects.com/en/stable/_static/flask-vertical.png" alt="flask" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -36,13 +36,13 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://nestjs.com" target="_blank"><img src="https://raw.githubusercontent.com/nestjs/nest/master/public/img/nestjs-logo.svg" alt="nestjs" width="40" height="40"/></a>
+<a href="https://nestjs.com" target="_blank"><img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="nestjs" width="40" height="40"/></a>
 <a href="https://angular.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/></a>
 <a href="https://www.mongodb.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://typeorm.io" target="_blank"><img src="https://typeorm.io/img/typeorm-logo.svg" alt="typeorm" width="40" height="40"/></a>
-<a href="https://mongoosejs.com" target="_blank"><img src="https://mongoosejs.com/img/mongoose-logo.svg" alt="mongoose" width="40" height="40"/></a>
-<a href="https://www.prisma.io" target="_blank"><img src="https://www.prisma.io/img/prisma-logo.svg" alt="prisma" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://typeorm.io" target="_blank"><img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/typeorm-logo-colored-light.png" alt="typeorm" width="40" height="40"/></a>
+<a href="https://mongoosejs.com" target="_blank"><img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="mongoose" width="40" height="40"/></a>
+<a href="https://www.prisma.io" target="_blank"><img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkLogo.svg" alt="prisma" width="40" height="40"/></a>
+<a href="https://aws.amazon.com" target="_blank"><img src="https://banner2.cleanpng.com/20180817/eqe/5f57f9bfeb7fb5ccee9564fa00b5935f.webp" alt="aws" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="fastapi" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
